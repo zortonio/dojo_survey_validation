@@ -1,0 +1,30 @@
+#labels, #inputs{
+  display: inline-block;
+  margin-top: 20px;
+}
+#labels, p, textarea{
+  margin-left: 20px;
+}
+#inputs{
+  margin-left: 50px;
+}
+label, input, select{
+  display: block;
+}
+select{
+  width: 146px;
+}
+label{
+ line-height: 19px;
+}
+textarea{
+  display: block;
+  margin-bottom: 20px;
+}
+button{
+  margin: 20px 20px 20px 305px;
+}
+form{
+  width: 380px;
+  border: 1px solid black;
+}
